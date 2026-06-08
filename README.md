@@ -16,7 +16,7 @@ Applicazione semplice e veloce per creare, modificare e cancellare note, con sal
 - Responsive design
 
 ##  Screenshot
-![Climafy Screenshot](https://github.com/user-attachments/assets/e3a8fb78-84d9-4a89-8c26-a7ddec90e0ad)
+![Notes-App Screenshot]()
 
 
 ##  Installazzione e utilizzo
