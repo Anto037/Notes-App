@@ -1,83 +1,52 @@
- Notes App
-
+# Notes App 
 Applicazione semplice e veloce per creare, modificare e cancellare note, con salvataggio automatico tramite localStorage e un’interfaccia pulita e intuitiva.
-🚀 Funzionalità
 
-    Creazione di nuove note
+## Funzionalità
+- Creazione di nuove note
+- Modifica delle note esistenti
+- Eliminazione delle note
+- Salvataggio automatico tramite localStorage
+- Interfaccia semplice e immediata
 
-    Modifica delle note esistenti
+##  Tecnologie utilizzate
+- HTML5
+- CSS3
+- JavaScript
+- Localstorage
+- Responsive design
 
-    Eliminazione delle note
+##  Screenshot
+![Climafy Screenshot](https://github.com/user-attachments/assets/e3a8fb78-84d9-4a89-8c26-a7ddec90e0ad)
 
-    Salvataggio automatico tramite localStorage
 
-    Interfaccia semplice e immediata
-
-    Design responsive
-
-🛠️ Tecnologie utilizzate
-
-    HTML5
-
-    CSS3
-
-    JavaScript
-
-    localStorage
-
-    Responsive Design
-
-📸 Screenshot
-
-(Aggiungi qui il link RAW dopo aver caricato l’immagine nella cartella assets)
-
-Esempio:
-Codice
-
-![Notes App Screenshot](LINK_RAW_QUI)
-
-Se ti serve, posso guidarti passo passo → Ottieni link RAW
-🔧 Installazione e utilizzo
-1️⃣ Clona la repository
-bash
-
+##  Installazzione e utilizzo
+1)  Clona la repository
 git clone https://github.com/Anto037/Notes-App.git
 
-2️⃣ Entra nella cartella del progetto
-bash
+2) Entra nella cartella del progetto
+   cd Notes-App
 
-cd Notes-App
+3)  Apri il file index.html
+   
+Puoi farlo con un live server oppure direttamente dal browser.
 
-3️⃣ Avvia il progetto
 
-Apri index.html con un live server oppure direttamente dal browser.
-📂 Struttura del progetto
-Codice
-
-Notes-App/
+##  Struttura del progetto
+Notes-app/
 │── assets/
-│   ├── screenshot.png (opzionale)
+│   ├── screen.PNG
+│   ├── icone varie...
 │
 │── index.html
 │── style.css
 │── script.js
 │── README.md
 
-🧠 Come funziona
 
-La Notes App utilizza localStorage per salvare automaticamente tutte le note create.
-Questo significa che:
-
-    le note restano salvate anche chiudendo il browser
-
-    non serve un backend
-
-    l’app è immediata, leggera e sempre disponibile
-
-👨‍💻 Autore
-
-Antonio Florea  
+##  Autore
+Antonio  Florea - 
 Studente Web Developer – Verona, Italia
-📄 Licenza
 
+
+##  Licenza
 Questo progetto è distribuito sotto licenza MIT.
