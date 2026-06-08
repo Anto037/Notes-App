@@ -16,7 +16,7 @@ Applicazione semplice e veloce per creare, modificare e cancellare note, con sal
 - Responsive design
 
 ##  Screenshot
-![Notes-App Screenshot]()
+![Notes-App Screenshot](assets/Notes.PNG)
 
 
 ##  Installazzione e utilizzo
