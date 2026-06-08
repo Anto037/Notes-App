@@ -24,11 +24,11 @@ Applicazione semplice e veloce per creare, modificare e cancellare note, con sal
    
 git clone https://github.com/Anto037/Notes-App.git
 
-3) Entra nella cartella del progetto
+2) Entra nella cartella del progetto
    
    cd Notes-App
 
-5)  Apri il file index.html
+3)  Apri il file index.html
    
 Puoi farlo con un live server oppure direttamente dal browser.
 
